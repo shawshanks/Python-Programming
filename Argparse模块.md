@@ -32,5 +32,6 @@
 [ArgumentParser 对象 官方文档](https://docs.python.org/zh-cn/3/library/argparse.html)
 
 #### 2. 调用 add_argument() 方法添加参数
-[调用 add_argument()] (https://docs.python.org/zh-cn/3/library/argparse.html)
+[调用 add_argument()](https://docs.python.org/zh-cn/3/library/argparse.html)
+
 作用: 定义单个的命令行参数应当如何解析
