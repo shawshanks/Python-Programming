@@ -4,6 +4,7 @@
 [Python网络编程中的select 和 poll I/O复用的简单使用](https://www.cnblogs.com/coser/archive/2012/01/06/2315216.html)  
 [python select模块详解](https://www.cnblogs.com/huchong/p/8613308.html)
 [python中的select模块](https://www.cnblogs.com/MnCu8261/p/6403340.html)
+[python网络编程——IO多路复用之epoll](http://www.cnblogs.com/maociping/p/5132583.html)
 
 
 ## 一些翻译
