@@ -22,3 +22,7 @@ max(prices, key=lambda k: prices[k]) # Returns 'AAPL'
 答案:
 > k 是 min/max 调用 key 回调函数时传入的参数，这个参数就是前面的 iterable 参数的每个值。dict 是 iterable 的并且每个值等于其 key。
 
+## dictionary的iterable
+[Python Dictionaries](https://medium.com/python-pandemonium/python-dictionaries-45cacc2b76aa)
+6. Iteration
+> A dictionary by itself is an iterable of its keys.
