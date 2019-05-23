@@ -3,6 +3,7 @@
 
 [Opening and Closing a File in Python](https://realpython.com/read-write-files-python/)
 
+[Strip Newline in Python | 4 Example Codes (Remove Trailing & Leading Blank Line)](https://statistical-programming.com/python-strip-remove-newline-from-string)
 
 ## 如何从命令行 将一个只有整数的txt文件  中的整数读取到数组中
 ### 1. 从命令行中选定文件
